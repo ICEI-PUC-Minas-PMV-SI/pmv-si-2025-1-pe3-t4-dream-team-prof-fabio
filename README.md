@@ -6,15 +6,15 @@
 
 `SEMESTRE: 3º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto visa ser um site para um hotel, permitindo a reserva de quartos e eventos de forma digital e intuitiva. A plataforma contará com um sistema CRUD para cadastro de usuários, compra de hospedagens e gerenciamento de ofertas, incluindo a escolha de datas de check-in e check-out. O objetivo é proporcionar uma experiência eficiente para os clientes, ao mesmo tempo em que facilita a administração das reservas pelo hotel.
 
 ## Integrantes
 
-* Sarah Cesar Martins dos Santos
-* Ricardo Gaede Nogueira
-* Lucas Filipe Santos Lima
-* João Victor Silva Farchi
 * Beatriz Maria Fagundes Oliveira
+* João Victor Silva Farchi
+* Lucas Filipe Santos Lima
+* Ricardo Gaede Nogueira
+* Sarah Cesar Martins dos Santos
 
 ## Orientador
 
